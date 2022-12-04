@@ -1,0 +1,5 @@
+name: T_KowadlaKlocunie
+version: '${project.version}'
+main: me.to1maszproblem.Main
+api-version: 1.18
+authors: [ To1MaszProblem ]
